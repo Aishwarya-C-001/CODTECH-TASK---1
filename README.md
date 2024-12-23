@@ -2,9 +2,11 @@ Name : Aishwarya C
 
 Company : CodTech IT solutions
 
+Intern ID : CT08DS601
+
 Domain : Cloud Computing
 
-Duration : December
+Duration : December to January
 
 Task 1 - Containerize a web application using Docker and deploy it to
 Google Kubernetes Engine (GKE). This project helps you
